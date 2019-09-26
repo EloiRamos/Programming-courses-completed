@@ -1,1 +1,22 @@
-# Programming-courses-completed
+List of programming courses I've completed:
+
+- Javascript Algorithms And Data Structures Certification (300 hours): https://learn.freecodecamp.org/
+- Responsive Web Design Certification (300 hours): https://learn.freecodecamp.org/
+- JavaScript Algorithms and Data Structures Masterclass: https://www.udemy.com/js-algorithms-and-data-structures-masterclass/
+- The Bootstrap 4 Bootcamp: https://www.udemy.com/bootstrap-4-bootcamp/
+- Advanced Javascript: https://www.udemy.com/javascript-advanced/
+- Modern JavaScript From The Beginning: https://www.udemy.com/modern-javascript-from-the-beginning/
+- Object-Oriented JavaScript (https://www.udacity.com/course/object-oriented-javascript--ud015) 
+- Advanced CSS and Sass: Flexbox, Grid, Animations and More!: https://www.udemy.com/advanced-css-and-sass/
+- Build Responsive Real World Websites with HTML5 and CSS3: https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3/
+- JavaScript30 by Wes Bos: 30 Day Vanilla JS Coding Challenge (http://javascript30.com/)
+- CSS Grid Course by Wes Bos: https://cssgrid.io/ 
+- The Web Developer Bootcamp: https://www.udemy.com/the-web-developer-bootcamp/
+- Introduction to JavaScript: https://www.codecademy.com/learn/introduction-to-javascript 
+- Learn Responsive Design: https://www.codecademy.com/learn/learn-responsive-design 
+- Make a Website: https://www.codecademy.com/learn/make-a-website 
+- CSS: https://www.codecademy.com/learn/learn-css 
+- HTML: https://www.codecademy.com/learn/learn-html 
+- The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert: https://www.udemy.com/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/
+- Microsoft SQL for Begginers: https://www.udemy.com/microsoft-sql-for-beginners/
+- Intro to Computer Science: https://www.udacity.com/course/intro-to-computer-science--cs101
